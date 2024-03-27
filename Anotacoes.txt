@@ -1,0 +1,6 @@
+estou dando uma arganizada nos diretórios do meu computador
+encontrei essa pasta de uma atividade da matéria que tive a muito tempo
+atrás e vou enviar os arquivos dessa pasta para o github.
+se por acaso você encontrou esse repositório devo adivertir que
+seria uma "tradução" do heapSort de java para python.
+espero ter ajudado!
